@@ -1,5 +1,5 @@
-val inputFileName : String = "/home/ann-egorova2000/sber/ПреобразованиеJson/input/huge-file.json";
-val outputFileName : String = "/home/ann-egorova2000/sber/ПреобразованиеJson/output/huge-file.parquet";
+val inputFileName : String = "путь_к_файлу.json";
+val outputFileName : String = "путь_к_выходному_файлу.parquet";
 
 import com.fasterxml.jackson.databind.ObjectMapper
 import com.fasterxml.jackson.databind.JsonNode
